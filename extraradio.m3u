@@ -1,28 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Legend FM" group-title="International" radio="true" tvg-logo="./legendfm.png",Legend FM
+#EXTINF:-1 tvg-name="Legend FM" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/legendfm.png",Legend FM
 https://stream.rcs.revma.com/7wnnz47a303vv
-#EXTINF:-1 tvg-name="Absolut Relax" group-title="International" radio="true" tvg-logo="./logo-absolut-relax.png",Absolut Relax
-https://absolutradio.de/playlist/absolut-relax.m3u
-#EXTINF:-1 tvg-name="Absolut Hot" group-title="International" radio="true" tvg-logo="logo-absolut-hot.png",Absolut Hot
-https://absolutradio.de/playlist/absolut-hot.m3u
-#EXTINF:-1 tvg-name="Absolut Germany" group-title="International" radio="true" tvg-logo="logo-absolut-germany.png",Absolut Germany
-https://absolutradio.de/playlist/absolut-germany.m3u
-#EXTINF:-1 tvg-name="Absolut Top" group-title="International" radio="true" tvg-logo="logo-absolut-top.png",Absolut Top
-https://absolutradio.de/playlist/absolut-top.m3u
-#EXTINF:-1 tvg-name="Absolut Bella" group-title="International" radio="true" tvg-logo="logo-absolut-bella.png",Absolut Bella
-https://absolutradio.de/playlist/absolut-bella.m3u
-#EXTINF:-1 tvg-name="Absolut Oldie Classics" group-title="International" radio="true" tvg-logo="logo-absolut-oldies.png",Absolut Oldie Classics
-https://absolutradio.de/playlist/absolut-oldies.m3u
-#EXTINF:-1 tvg-name="Absolut 80er" group-title="International" radio="true" tvg-logo="logo-absolut-80er.png",Absolut 80er
-https://absolutradio.de/playlist/absolut-80er.m3u
-#EXTINF:-1 tvg-name="Absolut musicXL" group-title="International" radio="true" tvg-logo="logo-absolut-musicxl.png",Absolut musicXL
-https://absolutradio.de/playlist/absolut-musicxl.m3u
-#EXTINF:-1 tvg-name="Absolut Lovesongs" group-title="International" radio="true" tvg-logo="logo-absolut-lovesongs.png",Absolut Lovesongs
-https://absolutradio.de/playlist/absolut-lovesongs.m3u
-#EXTINF:-1 tvg-name="Absolut Rock" group-title="International" radio="true" tvg-logo="logo-absolut-rock.png",Absolut Rock
-https://absolutradio.de/playlist/absolut-rock.m3u
-#EXTINF:-1 tvg-name="Absolut Clubnight" group-title="International" radio="true" tvg-logo="logo-absolut-clubnight.png",Absolut Clubnight
-https://absolutradio.de/playlist/absolut-clubnight.m3u
-#EXTINF:-1 tvg-name="Absolut Coffeemusic" group-title="International" radio="true" tvg-logo="logo-absolut-coffeemusic.png",Absolut Coffeemusic
-https://absolutradio.de/playlist/absolut-coffeemusic.m3u
-
+#EXTINF:-1 tvg-name="Absolut Relax" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-relax.png",Absolut Relax
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Hot" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-hot.png",Absolut Hot
+https://absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Germany" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-germany.png",Absolut Germany
+https://absolut-germany.live-sm.absolutradio.de/absolut-germany/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Top" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-top.png",Absolut Top
+https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Bella" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-bella.png",Absolut Bella
+https://absolut-bella.live-sm.absolutradio.de/absolut-bella/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Oldie Classics" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-oldies.png",Absolut Oldie Classics
+https://absolut-oldieclassics.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
+#EXTINF:-1 tvg-name="Absolut 80er" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-80er.png",Absolut 80er
+https://absolut-80er.live-sm.absolutradio.de/absolut-80er/stream/mp3
+#EXTINF:-1 tvg-name="Absolut musicXL" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-musicxl.png",Absolut musicXL
+https://absolut-musicxl.live-sm.absolutradio.de/absolut-musicxl/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Lovesongs" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-lovesongs.png",Absolut Lovesongs
+https://absolut-lovesongs.live-sm.absolutradio.de/absolut-lovesongs/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Rock" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-rock.png",Absolut Rock
+https://absolut-80er.live-sm.absolutradio.de/absolut-rock/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Clubnight" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-clubnight.png",Absolut Clubnight
+https://absolut-clubnight.live-sm.absolutradio.de/absolut-clubnight/stream/mp3
+#EXTINF:-1 tvg-name="Absolut Coffeemusic" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-coffeemusic.png",Absolut Coffeemusic
+https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic/stream/mp3
