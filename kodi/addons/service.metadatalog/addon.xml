@@ -1,0 +1,11 @@
+<addon id="service.metadatalog"
+       name="Metadata Logger Service"
+       version="1.0.0"
+       provider-name="Martin Neumann">
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Logs Artist/Title metadata to disk</summary>
+        <description>Writes currently playing artist and title to a text file.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

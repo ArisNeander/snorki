@@ -1,0 +1,11 @@
+<addon id="service.metadataswap"
+       name="Metadata Swap Service"
+       version="1.0.0"
+       provider-name="Martin Neumann">
+    <extension point="xbmc.service" library="service.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Swaps Artist/Title metadata from radio streams</summary>
+        <description>Corrects streams that send "Artist - Title" but Kodi reads as "Title - Artist".</description>
+        <platform>all</platform>
+    </extension>
+</addon>
