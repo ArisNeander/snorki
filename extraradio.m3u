@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Legend FM" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/legendfm.png",Legend FM
 https://stream.rcs.revma.com/7wnnz47a303vv
-#EXTINF:-1 tvg-name="Absolut Relax" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-relax.png",Absolut Relax
+#EXTINF:-1 tvg-name="Absolut Relax" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-relax.png",Absolut Relax - Radio
 https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
 #EXTINF:-1 tvg-name="Absolut Hot" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/logo-absolut-hot.png",Absolut Hot
 https://absolut-hot.live-sm.absolutradio.de/absolut-hot/stream/mp3
