@@ -27,3 +27,11 @@ https://absolut-clubnight.live-sm.absolutradio.de/absolut-clubnight/stream/mp3
 https://absolut-coffeemusic.live-sm.absolutradio.de/absolut-coffeemusic/stream/mp3
 #EXTINF:-1 tvg-name="Groove Salad" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/groovesalad.png",Groove Salad
 https://somafm.com/groovesalad256.pls
+#EXTINF:-1 tvg-name="Weihnachts-Classics" group-title="International" radio="true" tvg-logo="https://www.antenne.de/media/cache/3/version/100123/streamlogo-weihnachts-classics-presented-by-oldie-antenne-aby-neu-v1.jpg/d25583d80a6717c7.webp",Weihnachts-Classics
+https://stream.antenne.de/oldie-antenne-event/stream/mp3
+#EXTINF:-1 tvg-name="Weihnachtshits" group-title="International" radio="true" tvg-logo="https://www.antenne.de/media/cache/3/version/9/streamlogo_weihnachtst_hits_aby-v1.jpg/239bd0240e06d34b.webp",Weihnachtshits
+https://stream.antenne.de/weihnachts-hits/stream/mp3
+#EXTINF:-1 tvg-name="Weihnachtslounge" group-title="International" radio="true" tvg-logo="https://www.antenne.de/media/cache/3/version/42093/streamlogo_weihnachts_lounge_aby_neu-v1.jpg/3343d07afc4dfc44.webp",Weihnachtslounge
+https://stream.antenne.de/lounge/stream/mp3
+#EXTINF:-1 tvg-name="Weihnachts-Rock" group-title="International" radio="true" tvg-logo="https://www.antenne.de/media/cache/3/version/100122/streamlogo-x-mas-rock-presented-by-rock-antenne-aby-neu-v1.jpg/162750d1d517709f.webp",Weihnachts-Rock
+https://stream.antenne.de/xmas-rock/stream/mp3
