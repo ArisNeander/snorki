@@ -34,4 +34,4 @@ http://icepool.silvacast.com/ESCRADIO.mp3
 #EXTINF:-1 tvg-name="Cosmic Music" group-title="International" radio="true" tvg-logo="https://www.cosmic-music.com/wp-content/uploads/2026/03/cropped-cosmic-white-192x192.png",Cosmic Music Radio
 https://cosmicradio.radioca.st/stream
 #EXTINF:-1 tvg-name="Mangoradio" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/Mangoradio.webp",Mangoradio
-https://mangoradio.stream.laut.fm/mangoradio.pls
+https://mangoradio.stream.laut.fm/mangoradio.m3u
