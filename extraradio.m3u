@@ -37,3 +37,5 @@ https://cosmicradio.radioca.st/stream
 https://icecast.radiofrance.fr/fip-hifi.aac?id=radiofrance
 #EXTINF:-1 tvg-name="Mangoradio" group-title="International" radio="true" tvg-logo="https://raw.githubusercontent.com/ArisNeander/snorki/master/logos/Mangoradio.webp",Mangoradio
 https://stream.laut.fm/mangoradio.m3u
+#EXTINF:-1 tvg-name="80s80s" group-title="International" radio="true" tvg-logo="https://www.phonostar.de/images/auto_created/80s80s_radio2184x184.png",80s80s
+http://streams.80s80s.de/web/mp3-192/vtuner
